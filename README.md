@@ -6,7 +6,7 @@ AI Resume Maker is a web application that uses artificial intelligence to genera
 
 - **AI-driven resume creation**: The user inputs a prompt with details such as work experience, skills, and education. The AI (DeepSeek R1 1.5B) generates the corresponding content for the resume.
 - **User-friendly interface**: Built with React and Daisy-UI for a modern and intuitive UI.
-- **Customizable templates**: Multiple professional templates to choose from for resume generation.
+- **Final Resume Template**: Use of industry Ready Resume Template
 - **Backend**: Spring Boot handles the logic and serves the generated resumes.
 - **Downloadable resume**: After generating the resume, users can download it in a professional format (PDF).
 
